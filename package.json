@@ -1,0 +1,16 @@
+{
+  "name": "srt621-lab7",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "go": "node index.js"
+  },
+  "author": "Harman Sohi",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "http-status-codes": "^2.2.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
